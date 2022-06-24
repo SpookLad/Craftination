@@ -1,0 +1,31 @@
+{
+	"_NARRATOR_": "",
+	
+	"_GUI_": "",
+	
+	"_OPTIONS_": "",
+	
+	"_BLOCKS_": "",
+	"block.craftination.granite_bricks": "Polished Granite Bricks",
+	"block.craftination.andesite_bricks": "Polished Andesite Bricks",
+	"block.craftination.diorite_bricks": "Polished Diorite Bricks",
+	"block.craftination.sandstone_bricks": "Sandstone Bricks",
+	"block.craftination.red_sandstone_bricks": "Red Sandstone Bricks",
+	
+	"_ITEMS_": "",
+    "item.craftination.oak_stick": "Oak Stick",
+    "item.craftination.spruce_stick": "Spruce Stick",
+    "item.craftination.birch_stick": "Birch Stick",
+    "item.craftination.jungle_stick": "Jungle Stick",
+    "item.craftination.acacia_stick": "Acacia Stick",
+    "item.craftination.dark_oak_stick": "Dark Oak Stick",
+    "item.craftination.crimson_stick": "Crimson Stick",
+    "item.craftination.warped_stick": "Warped Stick",
+    "item.craftination.mangrove_stick": "Mangrove Stick",
+    
+    "_CONTAINERS_": "",
+    
+    "_STATS_": "",
+    
+    "_SUBTITLES_": ""
+}

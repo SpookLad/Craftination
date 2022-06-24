@@ -1,0 +1,42 @@
+{
+    "schemaVersion": 1,
+    "id": "craftination",
+    "version": "alpha-0.0.1-1.19",
+
+    "name": "Craftination",
+    "description": "This is an example description! Tell everyone what your mod is about!",
+    "authors": [
+        "SpookLass",
+        "Trigam"
+    ],
+    "contact": {
+        "homepage": "https://fabricmc.net/",
+        "sources": "https://github.com/FabricMC/fabric-example-mod"
+    },
+
+    "license": "CC0-1.0",
+    "icon": "assets/craftination/icon.png",
+
+    "environment": "*",
+    "entrypoints": {
+        "main": [
+        	"dev.trigam.craftination.Craftination"
+        ],
+        "client": [
+        	"dev.trigam.craftination.CraftinationClient"
+        ]
+    },
+    "mixins": [
+        "craftination.mixins.json"
+    ],
+
+    "depends": {
+        "fabricloader": ">=0.14.6",
+        "fabric": "*",
+        "minecraft": "~1.19",
+        "java": ">=17"
+    },
+    "suggests": {
+        
+    }
+}
