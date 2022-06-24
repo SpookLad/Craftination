@@ -1,0 +1,27 @@
+{
+    "values": [
+        "minecraft:ladder",
+        "minecraft:vine",
+        "minecraft:scaffolding",
+        "minecraft:weeping_vines",
+        "minecraft:weeping_vines_plant",
+        "minecraft:twisting_vines",
+        "minecraft:twisting_vines_plant",
+        "minecraft:cave_vines",
+        "minecraft:cave_vines_plant",
+        "craftination:oak_ladder",
+        "craftination:birch_ladder",
+        "craftination:spruce_ladder",
+        "craftination:jungle_ladder",
+        "craftination:acacia_ladder",
+        "craftination:dark_oak_ladder",
+        "craftination:mangrove_ladder",
+        "craftination:crimson_ladder",
+        "craftination:warped_ladder",
+        "craftination:bamboo_ladder",
+        "craftination:flutewood_ladder",
+        "craftination:grimewood_ladder",
+        "craftination:mahogany_ladder",
+        "craftination:faux_spruce_ladder"
+    ]
+}
